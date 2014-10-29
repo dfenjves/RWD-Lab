@@ -43,5 +43,7 @@ If you want, you can have multiple queries in a single stylesheet, to cover land
 ##Your Challenge
 Stored in this git repo is a very barebones HTML page with some very basic styling. Your job is to add media queries so it all of the elements line up vertically on the page when displayed on an iPhone-sized window.
 
+(res.png)
+
 ##Bonus Challenge
 Make the page look good.
